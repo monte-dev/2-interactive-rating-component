@@ -104,11 +104,8 @@ ul button:hover {
 }
 /* Thank you state */
 
-.rating {
-  display: none;
-}
 .thank-you {
-  /* display: none; */
+  display: none;
   align-items: center;
   text-align: center;
   padding-top: 40px;
