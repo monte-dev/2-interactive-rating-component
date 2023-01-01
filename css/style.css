@@ -23,7 +23,7 @@ body {
   transform: translate(-50%, -50%);
   background-color: var(--very-dark-blue);
 }
-
+/* Rating State */
 .container {
   width: 340px;
   display: flex;
@@ -70,7 +70,8 @@ ul button {
 }
 #submit {
     width: 100%;
-    font-size: 15px;
+    font-size: 12px;
+    font-weight: 700;
     letter-spacing: 1px;
     border: none;
     border-radius: 20px;
@@ -82,4 +83,20 @@ ul button {
 .container p {
   font-size: 15px;
   color: var(--light-grey);
+}
+
+/* Active State */
+.clicked {
+    
+    background-color: var(--light-grey);
+    color: var(--white);
+}
+
+ul button:hover {
+    background-color: var(--primary);
+    color: var(--white);
+}
+#submit:hover {
+    background-color: var(--white);
+    color: var(--primary);
 }
