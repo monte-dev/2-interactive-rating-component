@@ -77,6 +77,6 @@ In the next project I will focus on using SCSS and functions in my javascript co
 ## Author
 
 - Website - [monte-dev](https://www.github.com/monte-dev/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/monte-dev)
+- Frontend Mentor - [@monte-dev](https://www.frontendmentor.io/profile/monte-dev)
 
 
